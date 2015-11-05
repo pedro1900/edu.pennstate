@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Penn State template</resTitle>
+			<date>
+				<createDate>2015-11</createDate>
+			</date>
+			<citRespParty>
+				<rpIndName>Paige Andrew</rpIndName>
+				<rpOrgName>Penn State Libraries</rpOrgName>
+				<rpPosName>Maps Cataloging Librarian</rpPosName>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress>
+						<eMailAdd>126N Paterno Library</eMailAdd>
+						<city>University Park</city>
+						<adminArea>Pennsylvania State University</adminArea>
+						<postCode>16802</postCode>
+						<country>US</country>
+					</cntAddress>
+				</rpCntInfo>
+			</citRespParty>
+		</idCitation>
+		<dataLang>
+			<languageCode value="abk"/>
+		</dataLang>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<searchKeys>
+			<keyword>cataloging template</keyword>
+		</searchKeys>
+		<productKeys>
+			<thesaLang>
+				<languageCode value="abk"/>
+				<countryCode value="AF"/>
+			</thesaLang>
+		</productKeys>
+		<subTopicCatKeys>
+			<thesaLang>
+				<languageCode value="abk"/>
+				<countryCode value="AF"/>
+			</thesaLang>
+		</subTopicCatKeys>
+		<idPoC>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+	</dataIdInfo>
+	<distInfo>
+		<distTranOps>
+			<onLineSrc>
+				<linkage>http://psu.template</linkage>
+			</onLineSrc>
+		</distTranOps>
+	</distInfo>
+	<Esri>
+		<ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle>
+		<CreaDate>2015-11-05</CreaDate>
+		<CreaTime>14:23:30.03</CreaTime>
+		<ModDate>2015-11-05</ModDate>
+		<ModTime>15:05:39.35</ModTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISProfile>ISO19139</ArcGISProfile>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+	</Esri>
+	<mdDateSt>2015-11-05</mdDateSt>
+	<mdFileID>73a2bb76032944348e175dc69e85e17c</mdFileID>
+	<mdLang>
+		<languageCode value="abk"/>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+</metadata>
